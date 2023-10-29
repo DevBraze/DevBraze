@@ -1,4 +1,4 @@
-# Welcome to DevBraze - School of ECE, Reva University 🚀
+# Welcome to DevBraze - School of ECE, Reva University
 
 DevBraze is a dynamic technical club at the School of Electronics and Communication Engineering (ECE) at Reva University. We are a student community passionate about fostering technical excellence, both in software and hardware domains. Our mission is to empower students and provide opportunities for them to enhance their technical skills.
 
