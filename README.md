@@ -34,6 +34,7 @@ Are you a student looking to enhance your technical skills or share your knowled
 - **LinkedIn:** https://www.linkedin.com/in/devbraze-reva-204872289
 - **Instagram:** https://www.instagram.com/devbraze_reva/
 - **What'sApp:** https://chat.whatsapp.com/JDsYzNBTfWcKVIF41ST5bR
+- **Linktree:** https://linktr.ee/devbrazecommunity 
 
 We're excited to have you as a part of DevBraze, and we look forward to our collective growth in technology and knowledge.
 
